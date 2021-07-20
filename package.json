@@ -15,7 +15,7 @@
     "@react-navigation/stack": "^5.7.0",
     "deprecated-react-native-listview": "~0.0.5",
     "react": "16.13.1",
-    "react-native": "0.63.1",
+    "react-native": "0.64.1",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-image-grid": "1.0.0",
     "react-native-safe-area-context": "^3.1.1",

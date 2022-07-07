@@ -20,7 +20,7 @@
     "react-native-image-grid": "1.0.0",
     "react-native-safe-area-context": "^3.1.1",
     "react-native-screens": "^2.9.0",
-    "moment": "~2.24.0"
+    "moment": "~2.29.4"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
